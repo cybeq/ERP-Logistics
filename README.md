@@ -6,6 +6,7 @@
 1. [Company jobs](#ROLES)
 2. [Workflow](#WORKFLOW)
 #### [Alerts and notifications](#Notifications)
+#### [Updates log](#Updates)
 
 
 # :ocean: Logistics ERP System
@@ -214,3 +215,9 @@ This project is not licensed for public use and may not be shared or distributed
 - Influence on work: An equipment maintenance alert can prompt employees to perform necessary repairs or maintenance, reducing the risk of accidents and downtime.
 - Influence on warehouse: By alerting warehouse employees to equipment maintenance needs, the system can help them prioritize tasks and ensure that equipment is always in good working condition.
 - Influence on system: Equipment maintenance alerts can trigger automated maintenance requests and generate maintenance logs, helping to optimize equipment performance and reduce operational costs.
+
+---------------------------------------------------
+
+# Updates logs
+
+#### 1. 06.04.2023 || README.md created, empty project initiated.
