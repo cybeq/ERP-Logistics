@@ -6,7 +6,7 @@
 1. [Company jobs](#ROLES)
 2. [Workflow](#WORKFLOW)
 #### [Alerts and notifications](#Notifications)
-#### [Updates log](#Updates)
+#### [Updates](#Updates)
 
 
 # :ocean: Logistics ERP System
@@ -218,6 +218,6 @@ This project is not licensed for public use and may not be shared or distributed
 
 ---------------------------------------------------
 
-# Updates logs
+# Updates
 
 #### 1. 06.04.2023 || README.md created, empty project initiated.
