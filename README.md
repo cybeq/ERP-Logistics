@@ -1,6 +1,6 @@
 ## :construction: Long term project! Under development
 #### started 6.04.2023
-![img.png](img.png)
+![img.png](schemat-aplikacji.pdf)
 
 ##  [> SEE FULL APPLICATION AND WORKFLOW DIAGRAM](schemat-aplikacji.pdf)
 
