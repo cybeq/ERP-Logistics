@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" modified="2023-04-07T17:54:44.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="SlN3lnbtNo6nlMFiwWHF" version="21.1.4" type="device">
+  <diagram name="Strona-1" id="Z6dqmSQ4SwGNO2kAUOXz">
+    <mxGraphModel dx="2415" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xpy0een2M9rQcfn5cOEc-4" value="WAREHOUSE&lt;br&gt;MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-5" value="SUPERVISOR" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-6" value="TEAMS AND EMPLOYEES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-7" value="BUDGETS" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#90A9C2;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-8" value="INVENTORY MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-9" value="&lt;div&gt;GOALS &lt;br&gt;&lt;/div&gt;&lt;div&gt;AND &lt;br&gt;&lt;/div&gt;&lt;div&gt;RESULTS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-10" value="TRAININGS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-11" value="MONITOR AND MANAGE WORK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-12" value="DATA ANALIZE" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#B019E7;strokeColor=#9673a6;fontColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-13" value="PROCEDURES" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#90A9C2;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-14" value="EMPLOYEES" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#90A9C2;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-16" value="REQUEST FORMS AND MAILS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A7CF99;strokeColor=#3A5431;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-17" value="MONITOR AND MANAGE INVENTORY" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-20" value="STORE LAYOUT" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-21" value="&lt;div&gt;CALCULATION&lt;/div&gt;&lt;div&gt;ASSISTANT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#90A9C2;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-22" value="MONITOR WORK" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#90A9C2;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-23" value="&lt;b&gt;HOME&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-24" value="NOTIFICATIONS AND ALERTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A7CF99;strokeColor=#3A5431;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-25" value="TO DO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A7CF99;strokeColor=#3A5431;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-26" value="MESSAGES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A7CF99;strokeColor=#3A5431;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-27" value="&lt;div&gt;CONSULTATIONS&lt;/div&gt;&lt;div&gt;AND CONFERENCES&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A7CF99;strokeColor=#3A5431;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-28" value="OVERVIEW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A7CF99;strokeColor=#3A5431;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-29" value="&lt;div&gt;STATISTICS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C07DE7;strokeColor=#9673a6;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-30" value="&lt;div&gt;WAREHOUSE PERFORMANCE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C07DE7;strokeColor=#9673a6;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-31" value="RAPORTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C07DE7;strokeColor=#9673a6;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-32" value="SHIPPING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-33" value="&lt;div&gt;CALCULATION&lt;/div&gt;&lt;div&gt;ASSISTANT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C07DE7;strokeColor=#9673a6;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-34" value="OPTIMIZATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C07DE7;strokeColor=#9673a6;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-35" value="PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C07DE7;strokeColor=#9673a6;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-36" value="WORK PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-37" value="INCOMING ORDERS" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-38" value="CLIENTS" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#90A9C2;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-39" value="OUTGOING ORDERS" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-40" value="&lt;div&gt;CALCULATION&lt;/div&gt;&lt;div&gt;ASSISTANT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="760" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-41" value="ORDER POINTS" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-42" value="REPAIRS AND TECH" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#4AE86A;strokeColor=#82b366;fontColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-43" value="CURRENT REPAIRS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A2E8A5;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-44" value="STORAGE PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-45" value="RAPORTS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A2E8A5;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-46" value="LOGOUT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="600" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-48" value="IT SUPPORT" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#0F37FC;strokeColor=#6c8ebf;fontColor=#F0F0F0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-49" value="SERVER LOGS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6FA3FC;strokeColor=#6c8ebf;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="120" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-50" value="SOFTWARE MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6FA3FC;strokeColor=#6c8ebf;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-52" value="SYSTEM SETTINGS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6FA3FC;strokeColor=#6c8ebf;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-53" value="PERFORMANCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6FA3FC;strokeColor=#6c8ebf;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-54" value="CACHE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6FA3FC;strokeColor=#6c8ebf;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-57" value="&lt;div&gt;CALCULATION&lt;/div&gt;&lt;div&gt;ASSISTANT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7FBEE2;fontColor=#333333;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-60" value="MACHINES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A2E8A5;strokeColor=#82b366;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-61" value="MACHINES MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xpy0een2M9rQcfn5cOEc-63" value="PRIORITY MANAGEMENT" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#D87DB4;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

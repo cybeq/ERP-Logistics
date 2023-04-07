@@ -1,5 +1,8 @@
 ## :construction: Long term project! Under development
 #### started 6.04.2023
+### Current stage: 
+***Collecting market information and creating comprehensive documentation to establish a direction for software engineering and architecture.
+
 ![img.png](img.png)
 
 ##  [> SEE FULL APPLICATION AND WORKFLOW DIAGRAM](schemat-aplikacji.pdf)
@@ -55,10 +58,7 @@ Designed with Polish and English support & interface
 To use this application, clone the repository and run it on a local server. Please note that this application is currently in development and may contain bugs or incomplete features.
 
 ```bash
-git clone https://github.com/your-username/logistics-erp-system.git
-cd logistics-erp-system
-npm install
-npm start
+#### to update
 ```
 
 ## Contributors
@@ -70,6 +70,9 @@ npm start
 This project is not licensed for public use and may not be shared or distributed without the owner's agreement.
 
 # **********************************
+# Desktop client menu structure
+
+![MENU.PNG](MENU.PNG)
 
 # System details
 #details
