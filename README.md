@@ -15,6 +15,8 @@
 # :ocean: Logistics ERP System
 
 This is an enterprise resource planning (ERP) system developed specifically for logistics companies. It is designed to streamline and automate various logistics processes, including inventory management, supply chain management, transportation management, and order fulfillment.
+![diagram2.png](diagram2.png)
+
 
 ## Project Information
 
@@ -25,6 +27,7 @@ Designed with Polish and English support & interface
 
 - Laravel
 - Angular2
+- Electron
 - MySQL
 - HTML
 - SCSS
