@@ -1,11 +1,15 @@
 ## :construction: Long term project! Under development
 #### started 6.04.2023
-### Current stage: 
-***Collecting market information and creating comprehensive documentation to establish a direction for software engineering and architecture.
-
+### Last Stage: 
+1. Collecting market information and creating comprehensive documentation to establish a direction for software engineering and architecture.
+#### Current Stage:
+2. Adding a test base schema in the beta version that requires further updates.
+Composing the backend skeleton based on models and relationships and the basics for a desktop application
 ![img.png](img.png)
 
-##  [> SEE FULL APPLICATION AND WORKFLOW DIAGRAM](schemat-aplikacji.pdf)
+##  [* SEE FULL APPLICATION AND WORKFLOW DIAGRAM](schemat-aplikacji.pdf)
+
+## [* SEE TEST DATABASE SCHEMA](testbase.drawio-1.pdf)
 
 ----------------------------------------------------
 #### [System details](#details)
@@ -30,7 +34,7 @@ Designed with Polish and English support & interface
 
 - Laravel
 - Angular2
-- Electron
+- Electron (or TWAIN)
 - MySQL
 - HTML
 - SCSS
@@ -69,10 +73,13 @@ To use this application, clone the repository and run it on a local server. Plea
 
 This project is not licensed for public use and may not be shared or distributed without the owner's agreement.
 
-# **********************************
 # Desktop client menu structure
 
 ![MENU.PNG](MENU.PNG)
+
+--------------------------------
+# Test database schema
+![testbase.png](testbase.png)
 
 # System details
 #details
